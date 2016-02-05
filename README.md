@@ -6,5 +6,13 @@ This repository holds my notes and any other relevant material for SunshinePHP 2
 
 ### Day 1
 
-Keynote: Josh Holmes
+Keynote: You can make a difference
 
+[MySQL Server Performance Tuning 101][1]
+
+
+[1]: notes/mysql-server-performance-tuning.md
+[2]: #
+[3]: #
+[4]: #
+[5]: #
