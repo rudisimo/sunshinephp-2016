@@ -1,6 +1,6 @@
 # MySQL Server Performance Tuning 101
 > by: [Ligaya Turmelle][1]  
-> [http://legacy.joind.in/16770][2]
+> [https://legacy.joind.in/16770][2]
 
 ## Preface
 
